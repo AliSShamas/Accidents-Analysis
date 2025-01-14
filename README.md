@@ -4,4 +4,4 @@ This road accident analysis project explores various factors influencing acciden
 
 ROAD ACCIDENT ANALYSIS DASHBOARD PowerBi : 
 
-[!image](https://github.com/AliSShamas/Accidents-Analysis/blob/main/Road%20Accident%20Analysis.PNG?raw=true)
+![image](https://github.com/AliSShamas/Accidents-Analysis/blob/main/Road%20Accident%20Analysis.PNG?raw=true)
